@@ -1,4 +1,4 @@
-# E-commerce Monorepo
+# E-commerce
 
 Este repositório contém uma solução completa para um sistema de e-commerce, organizada em três principais módulos:
 
@@ -60,7 +60,3 @@ Consulte os READMEs de cada pasta (`backend/`, `ecommerce-app/`, `ecommerce_mobi
 - **Monorepo:** Facilita o versionamento, integração e compartilhamento de código entre as partes.
 - **Separação de responsabilidades:** Cada módulo é independente, facilitando manutenção e evolução.
 - **Testes:** Cada parte possui testes automatizados para garantir qualidade e confiabilidade.
-
----
-
-Para dúvidas ou contribuições, consulte os READMEs específicos ou abra uma issue.
